@@ -1,0 +1,6 @@
+framework module Pods_ProjectWithPageObjectsTests {
+  umbrella header "Pods-ProjectWithPageObjectsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

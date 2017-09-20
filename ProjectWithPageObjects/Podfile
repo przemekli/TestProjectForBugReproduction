@@ -1,0 +1,7 @@
+target 'ProjectWithPageObjectsTests' do
+  project 'ProjectWithPageObjects'
+
+  use_frameworks!
+  inherit! :search_paths
+  pod 'EarlGrey'
+end
